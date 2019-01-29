@@ -1,4 +1,6 @@
-#unreal Generated files
+########################
+#unreal Generated files#
+########################
 Binaries/
 Build/
 Intermediate/
@@ -7,6 +9,8 @@ DerivedDataCache/
 Content/StarterContent/
 
 
-#Visual Studio contect
+########################
+#VS     Generated files#
+########################
 
 *.VC.db
